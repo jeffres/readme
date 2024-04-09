@@ -9,6 +9,14 @@ You can contact me on
 [LinkedIn](https://www.linkedin.com/in/geoffrey-lienhart-41462870)
 if you wish. 🙂
 
+## Kubernetes
+
+### Monitoring stack (Prometheus/Grafana)
+
+The [`k8s-monitoring`](https://gitlab.com/glienhart/k8s/k8s-monitoring) repository
+illustrates the deployment of a Prometheus/Grafana monitoring stack
+in a Kubernetes cluster, along with automatic provisioning of dashboards and alerts.
+
 ## Ansible
 
 ### Roles
